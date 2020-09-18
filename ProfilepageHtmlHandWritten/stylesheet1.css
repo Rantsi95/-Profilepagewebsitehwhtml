@@ -1,0 +1,32 @@
+
+
+    img {
+        width: 10vw;
+        height: 12vw;
+
+         }
+
+    h1 {
+        color: papayawhip;
+    }
+
+    h2 {
+        color: navy;
+    }
+
+    p {
+        color: blueviolet;
+    
+    }
+    body  {
+        text-align: center;
+    
+    }
+    div {
+        color: black;
+        border: 2px blue solid;
+        border-radius: .3em;
+        padding: .4em;
+        background-color: rgb(194, 141, 62);
+    }
+
